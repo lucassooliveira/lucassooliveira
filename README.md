@@ -40,6 +40,6 @@ I'm a technology enthusiast, and at the moment, I'm particularly interested in d
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucassooliveira&repo=Projetos-Iniciais-com-python&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFD700&text_color=FFF)](https://github.com/lucassooliveira/Projetos-Iniciais-com-python)
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucassooliveira/lucassooliveira/blob/output/github-contribution-grid-snake.svg)
 
 
